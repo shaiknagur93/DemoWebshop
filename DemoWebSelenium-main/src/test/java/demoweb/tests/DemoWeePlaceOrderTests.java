@@ -58,7 +58,7 @@ public class DemoWeePlaceOrderTests extends Driver {
 	@BeforeMethod
 	public void beforeMethod() {
 		PropertyConfigurator.configure(workingDir + "/configs/log4j.properties");
-		System.setProperty("webdriver.chrome.driver", workingDir + "\\browserdrivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", workingDir + "/browserdrivers/chromedriver.exe");
 		driver = new ChromeDriver();  
 		driver.get(prop.getProperty("APP_URL"));		
 		driver.manage().window().maximize();
