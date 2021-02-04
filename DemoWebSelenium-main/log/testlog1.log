@@ -1,0 +1,30 @@
+2021-02-04 15:50:34,145 [main] INFO PLace Order Tests - Click on login button successful
+2021-02-04 15:50:34,184 [main] INFO PLace Order Tests - Welcome, Please Sign In! message is displayed as Title after click on Login link
+2021-02-04 15:50:35,271 [main] INFO PLace Order Tests - Login is successfull and able to verify logged in user id
+2021-02-04 15:50:36,254 [main] INFO PLace Order Tests - Navigated to Books page succesfully
+2021-02-04 15:50:36,277 [main] INFO PLace Order Tests - Fiction is available in the catalog
+2021-02-04 15:50:37,425 [main] INFO PLace Order Tests - Fiction iis added to cart
+2021-02-04 15:50:38,320 [main] INFO PLace Order Tests - Successfully navoigated to Shopping Cart
+2021-02-04 15:50:38,432 [main] INFO PLace Order Tests - Successfully updated the quantity of items
+2021-02-04 15:50:42,133 [main] INFO PLace Order Tests - Cart Total price is verified successfully
+2021-02-04 15:50:42,194 [main] INFO PLace Order Tests - sel;ected terfoirm of service checkbox
+2021-02-04 15:50:44,283 [main] INFO PLace Order Tests - Clicked on Checkout
+2021-02-04 15:50:44,313 [main] INFO PLace Order Tests - Successfully navoigated to Checkout Page
+2021-02-04 15:50:44,446 [main] INFO PLace Order Tests - Enter New address block displayed
+2021-02-04 15:50:44,552 [main] INFO PLace Order Tests - Slected Email
+2021-02-04 15:50:44,661 [main] INFO PLace Order Tests - Entered City
+2021-02-04 15:50:44,749 [main] INFO PLace Order Tests - Entered Address1
+2021-02-04 15:50:44,837 [main] INFO PLace Order Tests - Entered ZIP
+2021-02-04 15:50:44,919 [main] INFO PLace Order Tests - Entered Phone Number
+2021-02-04 15:50:46,051 [main] INFO PLace Order Tests - Successfully navigated to Shipping Address Section
+2021-02-04 15:50:48,231 [main] INFO PLace Order Tests - Successfully navigated to Shipping Method Section
+2021-02-04 15:50:50,373 [main] INFO PLace Order Tests - Successfully navigated to Payment Method Section
+2021-02-04 15:50:50,435 [main] INFO PLace Order Tests - Successfully selected to Payment Method 'Cash On Delivery (COD)'
+2021-02-04 15:50:52,527 [main] INFO PLace Order Tests - Successfully navigated to Payment Information Section Section
+2021-02-04 15:50:52,546 [main] INFO PLace Order Tests - Payment method information displayed successfully as COD
+2021-02-04 15:50:54,634 [main] INFO PLace Order Tests - Successfully navigated to Order conformation Section
+2021-02-04 15:50:56,002 [main] INFO PLace Order Tests - Order Confirmation page has been displayed successfully
+2021-02-04 15:50:56,002 [main] INFO PLace Order Tests - Successfully navigated to order conformation page 
+2021-02-04 15:50:56,025 [main] INFO PLace Order Tests - Order hasbeen placed successfully
+2021-02-04 15:50:56,045 [main] INFO PLace Order Tests - Yay!! Order successfull and here is your ORDER NUMBER 'Order number: 859557'
+2021-02-04 15:50:58,144 [main] INFO PLace Order Tests - Logout successfull!!!!
